@@ -1,6 +1,14 @@
 # SQL-Library-Management
 Capstone Database Systems Project
 
+## Repository Files
+
+DatabaseScripts.sql - These scripts can be used to create all the respective tables in the database.
+
+Queries,Transactions,Views.sql - These are test cases for queries, transactions, and views.
+
+LibraryManagementDatabase.db - This is the actual database that was created in SQLiteStudio.
+
 ## Project Overview
 
 In this capstone project, our team of four software engineers designed and built a sophisticated and efficient SQL library database management system. We utilized industry-standard best practices and techniques to ensure the system was highly normalized, secure, scalable, and performance-oriented. Additionally, we implemented a front-end Java application to seamlessly interface with the SQL database, providing users with an intuitive and responsive experience. Rigorous testing and documentation were conducted throughout the project to guarantee quality and maintainability.
