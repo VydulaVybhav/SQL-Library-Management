@@ -13,7 +13,7 @@ In this capstone project, our team of four software engineers designed and built
 2. **Relationships and Constraints**:
    We established meaningful relationships between tables using primary and foreign key constraints, maintaining referential integrity. Additionally, we implemented check constraints and unique constraints to enforce business rules and guarantee data accuracy.
 
-3. **Java Front-end Application**:
+3. **Java Front-End Application**:
    Working in collaboration, we developed a user-friendly Java application that interacted with the SQL database. This application provided an intuitive interface for users to perform CRUD operations, search the catalog, and manage library transactions such as borrowing and returning books. Note: This repositorty only contains the SQL portion.
 
 4. **Test Cases**:
